@@ -1,10 +1,10 @@
 # JohnBaskerville
 [Johnbaskerville]
 # 30th of October
-[Baskerville_1](https://jamesscott147.github.io/john_baskerville/stan.html)
+[Baskerville_1](https://jamesscott147.github.io/john_baskerville/baskerville.html)
 
 # 5th of November
-[Baskerville_2](https://jamesscott147.github.io/john_baskerville/stan_2.html) 
+[Baskerville_2](https://jamesscott147.github.io/john_baskerville/baskerville_2.html) 
 
 #
 
