@@ -6,7 +6,10 @@
 # 5th of November
 [Baskerville_2](https://jamesscott147.github.io/john_baskerville/baskerville_2.html) 
 
-#
+# 11th of november
+
+[Baskerville_2](https://jamesscott147.github.io/john_baskerville/baskerville_3.html) 
+
 
 History of Type
 ===============

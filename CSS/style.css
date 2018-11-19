@@ -6,6 +6,47 @@
     font-size: 0;
     line-height: 0;
 }
+
+/*---------Main styling------------*/
+
+    body {
+    width: 75%;
+    max-width: 670px;
+    margin: auto;
+    background: #fafafa;
+    color: dimgray;
+}
+    
+    h1, h2, h3 {
+        font-weight: normal;
+        color: darkorange;
+        text-align: center;
+    }
+
+    p, li, blockquote{
+        margin-bottom: 1.5em;
+        line-height: 1.4;
+    }
+    
+    h1 {
+        font-size: 3.908em;
+        margin-top: 1em;
+        margin-bottom: 0.1;
+    }
+    
+    h2 {
+        font-size: 2.2872em;
+        margin: 1em 0
+    }
+    
+    h3 {
+        font-size: 1.999em;
+    }
+    
+blockquote {
+    hanging-punctuation: first;
+    text-indent: -0.5em;
+}
     
     
     
