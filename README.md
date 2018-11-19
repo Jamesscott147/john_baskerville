@@ -8,7 +8,7 @@
 
 # 11th of november
 
-[Baskerville_2](https://jamesscott147.github.io/john_baskerville/baskerville_3.html) 
+[Baskerville_3](https://jamesscott147.github.io/john_baskerville/baskerville_3.html) 
 
 
 History of Type
