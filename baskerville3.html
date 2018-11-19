@@ -49,15 +49,87 @@ blockquote {
         font-style: italic;
         font-size: 2.35em;
         margin-top: 0.5em;
+        color: #333
+    }
+    
+< /* ---- styling links -----*/>
+    
+    a{
+        color: #c06;
+        text-decoration: none;
+    }
+    
+< /* ---- navigation -----*/>
+    
+    nav{
+        top: 0;
+        left: 0;
+        margin: 0;
+        width: 0;
+        background-color: #c06;
+        padding: 1em 0;
+        font-size: 0.75em;
+    }
+    
+    nav ul{
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+    
+    nav ul li{
+        display: inline;
+        margin: 20px;
+        
+    }
+
+    nav a:link{color: #fff;}
+    
+    nav a:visited {color: darkorange;}
+    
+    nav a:hover {border-bottom: none;
+    color: black;}
+    
+/* -------------------blockquote--------------------*/
+    
+    blockquote{
+        padding: 1em 0 4em 0;
+        font-size: 1.75em;
+        color: #777;
+    }
+    
+/* ---------------images---------------------*/
+    
+    img{
+        display: block;
+        margin: 4em auto;
+        padding: 0;
+        max-width: 100%;
+    }
+    
+    
+/*-------footer----*/
+    
+    footer{
+        text-align: center;
+        font-size: 0.75em;
+        line-height: 1.5em;
+        
+        
+    }
+
+    hr{
+        margin: 3em 0;
+        height: 1px;
+        background-color: #333;
+        color: #333;
+        border: 0 ;
     }
     </style>
 </head>
     
 <body>
-<h1 id="top">John Baskerville</h1>
-<h3>Letter Founder & Master Printer</h3>
-    
-    <nav>
+<nav>
     <ul>
         <li><a href="#the-man">The Man</a></li>
         <li><a href="#the-typeface">The typeface</a></li>
@@ -65,6 +137,11 @@ blockquote {
         
         </ul>
     </nav>
+<header>    
+<h1 id="top">John Baskerville</h1></header>
+<h3>Letter Founder & Master Printer</h3>
+    
+    
 
 <p>John Baskerville (1706–1775) was an English businessman whose entrepreneurial attentions included japanning and papier-mâché; he is, however, best remembered as a typographer and printer, not least for the design of the eponymous typeface which, to this very day, bears his name.</p>
 
@@ -72,7 +149,8 @@ blockquote {
 
 <h2 id="the-man">The Man</h2>
     
-
+<img src="images/john_baskerville.jpg">
+    
 <p>Baskerville was born in the village of Wolverley, near Kidderminster in Worcestershire, and worked as a printer in Birmingham. Baskerville printed works for the University of Cambridge and, although an atheist, printed a splendid folio bible in 1763. His typefaces were greatly admired by Benjamin Franklin, a printer and fellow member of the Royal Society of Arts, who took the designs back to the newly-created United States, where they were adopted for most federal government publishing.</p>
 
 <p>Baskerville was responsible for numerous innovations in printing, paper and ink production. He developed a technique which produced a smoother whiter paper which showcased his strong black type. He also pioneered a completely new style of typography, adding wide margins and generous leading to improve legibility.</p>
@@ -126,9 +204,10 @@ blockquote {
 <p>Mrs Eaves is named after Sarah Eaves, the woman who became John Baskerville’s wife. As Baskerville was setting up his printing and type business, Mrs. Eaves moved in with him as a live-in housekeeper, eventually becoming his wife after the death of her first husband, Mr. Eaves. Mrs Eaves is a revival of the types of English printer and punchcutter John Baskerville, and is related to contemporary Baskerville typefaces.</p>
 
 <p>Like Baskerville, Mrs Eaves, cut by Zuzana Licko of Émigré, has a near vertical stress, departing from the Old Style model. Identifying characters, similar to Baskerville’s types, are the lowercase g with its open lower counter and swash-like ear. Both the roman and italic uppercase Q have a flowing swash-like tail. The uppercase C has serifs at top and bottom; there is no serif at the apex of the central junction in uppercase W; and the uppercase G has a sharp spur suggesting a vestigial serif.</p>
-    <a href="#top">Top</a>
+    
+<a href="#top">Top</a>
+<hr>
 
-
-<p>The content on this page is developed from original copy from Wikipedia and licensed under a Creative Commons Attribution-ShareAlike License, meaning you’re allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.</p>
+<footer><p>The content on this page is developed from original copy from Wikipedia and licensed under a Creative Commons Attribution-ShareAlike License, meaning you’re allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.</p></footer>
 </body>
 </html>
