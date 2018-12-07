@@ -1,0 +1,91 @@
+/*---Main styling---*/
+
+body {
+    width: 75%;
+    max-width: 670px;
+    margin: auto;
+    background color: aqua;
+    color: dimray;
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid red;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+blockquote {
+    font-style: italic;
+    opacity: 50%;
+    color: darkgrey;
+    
+}
+
+cite {
+    font-style: italic;
+    opacity: 50%;
+    color: darkgrey;
+}
+
+/*---------section1------------*/
+
+section1 {
+    font-family: 'libre baskerville';
+    
+}
+.v1 {
+    font-size: 5em;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 0px;
+    font-family: 'libre baskerville';
+}
+
+.v1sub{
+    
+    
+}
+
+.dropcap1 {
+    font-family: 'libre baskerville';
+    font-size: ;
+    float: left;
+    text-align: inherit;
+}
+
+.dropcap1::first-letter {
+    font-size: 300%;
+    line-height: 1px;
+    
+    
+    
+}
+
+b1 {
+    opacity: 50%;
+}
+
+/*---------section2------------*/
+
+section2{
+        font-family: 'open sans';
+    
+
+}
+
+.p2 {
+    font-size: 100%;
+}
+/*---------section3------------*/
+
+
+section3{
+    font-family: 'arvo';
+}

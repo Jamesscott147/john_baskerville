@@ -11,12 +11,16 @@ h1, h2, h3 {
     margin: auto;
     background: #fafafa;
     color: dimgray;
+    font-family: 'Libre Baskerville', serif;
+
 }
     
     h1, h2, h3 {
         font-weight: normal;
         color: darkorange;
         text-align: center;
+        font-family: 'Libre Baskerville', serif;
+
     }
 
     p, li, blockquote{
@@ -59,6 +63,43 @@ blockquote {
         text-decoration: none;
     }
 
+
+.connections {
+    position: relative;
+    margin: auto;
+    margin: 20px, 0px;
+    display: inline;
+}
+
+.connections ul{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.connections li{
+    margin: 0 15px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.connections a:link{
+    border-bottom: none;
+}
+
+.connections img{
+    opacity: 0.5;
+    border: none;
+    
+}
+.connections a:hover img {
+    opacity: 1.0;
+    border-bottom: none;
+    transition: all 0.9s ease-in-out;
+    transform: scale(2);
+}
 < /* ---- navigation -----*/>
 
 
@@ -84,12 +125,15 @@ blockquote {
         
     }
 
-    nav a:link{color: darkgoldenrod;}
+    nav a:link{color: darkorange;}
     
     nav a:visited {color: darkorange;}
     
     nav a:hover {border-bottom: none;
-    color: black;}
+    color: black;
+    transition: all 0.2s ease-in-out;    
+
+}
     
 /* -------------------blockquote--------------------*/
 
