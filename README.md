@@ -6,13 +6,26 @@
 # 5th of November
 [Baskerville_2](https://jamesscott147.github.io/john_baskerville/baskerville2.html) 
 
-# 11th of november
+# 12th of November
 
 [Baskerville_3](https://jamesscott147.github.io/john_baskerville/baskerville3.html) 
 
+# 19th of November
+
+[Baskerville_4](https://jamesscott147.github.io/john_baskerville/baskerville4.html) 
+
 # 26th of November
 
-[Baskerville_5](https://jamesscott147.github.io/john_baskerville/baskerville5.html) 
+[Baskerville_5](https://jamesscott147.github.io/john_baskerville/baskerville5.html)
+
+# 3rd of December
+
+[Baskerville_6](https://jamesscott147.github.io/john_baskerville/baskerville6.html) 
+
+# 10th of December
+
+[Baskerville_7](https://jamesscott147.github.io/john_baskerville/baskerville7.html) 
+
 
 
 
