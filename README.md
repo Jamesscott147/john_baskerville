@@ -25,4 +25,6 @@ History of Type
 
 [History of type 3](https://jamesscott147.github.io/john_baskerville/historyoftype3.html) 
 
+[History of type 4](https://jamesscott147.github.io/john_baskerville/historyoftype4.html) 
+
 [History of type 5](https://jamesscott147.github.io/john_baskerville/historyoftype5.html) 

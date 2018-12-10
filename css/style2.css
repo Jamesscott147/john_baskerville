@@ -11,7 +11,7 @@ h1, h2, h3 {
     margin: auto;
     background: #fafafa;
     color: dimgray;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'libre Baskerville', serif;
 
 }
     
@@ -28,10 +28,15 @@ h1, h2, h3 {
         line-height: 1.4;
     }
     
+h {
+    font-family: 'libre baskerville';
+}
     h1 {
         font-size: 3.908em;
         margin-top: 1em;
         margin-bottom: 0.1;
+            font-family: 'libre baskerville';
+
     }
     
     h2 {

@@ -29,41 +29,39 @@ b {
     color: #c06;
     text-decoration:underline;
     font-family: 'Roboto', sans-serif;
+     font-size: 80%;
 
      
     }
 
 /*---Navagation---*/
-.navbar {
-    overflow: hidden;
-    background-color: #333;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width:100%;
+ul {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+    background-color: darkslategrey;}
+
+li {
+  float:left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align:center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+background-color: lightseagreen;
+transition: all 0.2s ease-in-out;
     
-    float: left;
+ 
 }
 
-/* Links inside the navbar */
-.navbar a {
-    float:left;
-    display:inline-block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-/* Change background on mouse-over */
-.navbar a:hover {
-    background: #ddd;
-    color: black;
-}
-
-/* Main content */
-.main {
-    margin-top:px; /* Add a top margin to avoid content overlay */
-}
 
 /*---images---*/
 img{
